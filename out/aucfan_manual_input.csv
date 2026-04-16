@@ -1,0 +1,3 @@
+商品URL,入札金額(円),入札タイミング(分前),現在価格(円),判定,商品名
+https://example.com/auc-001,38200,6,12000,ok,シャネル マトラッセ 財布
+https://example.com/auc-002,88000,6,90000,current_price_over_max_bid,シャネル チェーンショルダー
