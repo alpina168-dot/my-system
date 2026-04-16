@@ -1,0 +1,11 @@
+{
+  "listing_id": "ID",
+  "title": "タイトル",
+  "url": "商品URL",
+  "snipe_at": "予約時刻",
+  "max_bid_jpy": "入札上限",
+  "end_at": "終了時刻",
+  "target_margin_rate": "利益率目標",
+  "expected_sell_price_jpy": "想定売価",
+  "reason": "判定"
+}

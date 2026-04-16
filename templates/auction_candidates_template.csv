@@ -1,0 +1,4 @@
+listing_id,title,url,format,end_at,expected_sell_price_jpy,current_price_jpy
+auc-001,シャネル マトラッセ 財布,https://example.com/auc-001,auction,2026-04-16T21:00:00+09:00,67000,12000
+auc-002,シャネル チェーンショルダー,https://example.com/auc-002,auction,2026-04-16T22:00:00+09:00,150000,90000
+buy-001,シャネル 財布 即決,https://example.com/buy-001,buy_now,2026-04-16T20:00:00+09:00,50000,45000
